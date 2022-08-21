@@ -6,3 +6,6 @@ def output():
         print (ele)
 
 output()
+
+def burger():
+    print ("eat burger")
