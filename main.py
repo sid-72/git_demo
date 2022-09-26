@@ -11,3 +11,5 @@ def burger():
     print ("eat burger")
 def pizza():
     print ("eat pizza")
+def sushi()
+    print("eat sushi")
